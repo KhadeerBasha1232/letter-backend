@@ -8,7 +8,6 @@ yarn.lock
 
 # Environment variables
 .env
-.env.*
 
 # Service account keys and credentials
 service-account.json
